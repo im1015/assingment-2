@@ -1,0 +1,150 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins'sans-serif;
+    font-style: normal;
+}
+h1{
+    font-size:50px;
+}
+h2{
+
+    font-size: 40px;
+}
+.second{
+
+    color: rgb(140, 29, 245);
+
+}
+.half-width{
+
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left:2% ;
+}
+.half-width img{
+
+width:70%;
+
+}
+.top{
+
+    background-image: url("personal-website/header-bg.png");
+
+}
+
+.top2{
+
+    background-image: url("personal-website/biography-bg.png");
+
+}
+
+.top3{
+
+    background-image: url("personal-website/latest-work-bg.png");
+}
+
+.top4{
+
+    background-image: url("personal-website/footer-bg.png");
+}
+
+
+section{
+
+    height: 500px;
+    padding-bottom:100px;
+}
+p{
+    color: dimgray;
+    text-align: justify;
+    font-size: 25px;
+}
+
+.link-button{
+
+    text-decoration: none;
+    background-image: linear-gradient( rgba(235, 44, 11, 0.849),rgb(46, 12, 236),rgb(0, 255, 149));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+
+.link-button2{
+
+    text-decoration: none;
+    background-image: linear-gradient( rgba(235, 44, 11, 0.849),rgb(46, 12, 236),rgb(0, 255, 149));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+
+.bio{
+
+    font-weight:bold;
+    color: rgb(255, 196, 47);
+}
+.clm{
+
+    float: left;
+    width:32%;
+padding: 3px;
+margin: 0%;  
+box-sizing: border-box;
+overflow: hidden;
+
+}
+.clm img{
+    height: 450px;
+}
+
+.latest{
+
+    text-align: center;
+}
+
+.last1{
+
+    color: rgb(150, 146, 146);
+    text-align: center;
+}
+
+.last2{
+    font-size: 15px;
+    text-align: center;
+
+}
+
+footer p {
+    text-align: center;
+    font-size: 15px;
+    border: 5px 10px;
+}
+
+
+.lastone{
+   float: left;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    height: 30%;
+    text-align: center;
+    background-color: rgba(183, 0, 255, 0.897);
+    padding: 5px;
+    width: 50%;
+    margin-left: 25%;
+    
+    
+
+}
+.list{
+    font-size: 20px;
+    font-weight: bold;
+    color: whitesmoke;
+    
+}
